@@ -2,6 +2,10 @@
 
 An interactive revenue-operations dashboard for subscription businesses. It presents MRR, ARR, retention, churn, customer health and account activity in one responsive view.
 
+[Live demo](https://stassinsergey-lang.github.io/metricflow-dashboard/) · [Source](https://github.com/stassinsergey-lang/metricflow-dashboard)
+
+![MetricFlow interface](assets/cover.png)
+
 ## Highlights
 
 - Responsive executive dashboard
